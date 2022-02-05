@@ -376,3 +376,46 @@ li {
     padding: 0;
     margin: 0 auto;
 }
+
+
+/* Contact Us  */
+
+#contact-us .contact-us-content {
+    display: flex;
+    justify-content: space-around;
+    margin: 70px auto;
+}
+
+#contact-us header {
+    font-size: 96px;
+    line-height: 119px;
+    color: #433C78;
+}
+
+#contact-us .contact-us-input input {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 36px;
+    display: flex;
+    align-items: flex-end;
+    width: 500px;
+    margin-bottom: 30px;
+}
+
+#contact-us #lastinput {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 36px;
+    display: flex;
+    align-items: flex-end;
+    width: 500px;
+    margin-bottom: 30px;
+}
+
+#contact-us #contact-button {
+    align-self: flex-end;
+}
